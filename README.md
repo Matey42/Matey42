@@ -50,6 +50,7 @@ I'm a Computer Science student based in Warsaw, actively immersed in learning an
 
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=Matey42&theme=vision-friendly-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matey42&layout=compact&theme=vision-friendly-dark)
 
 <!--
