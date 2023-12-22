@@ -23,7 +23,7 @@ I'm a Computer Science student based in Warsaw, actively immersed in learning an
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="js" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="spring" width="35px"/>
-    <img src="[https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png](https://cdn.worldvectorlogo.com/logos/fastapi.svg)" title="fastapi" width="35px"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="fastapi" width="35px"/>
     <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.svgrepo.com/show/353657/django-icon.svg)" title="django" width="35px"/>
 </div>
 
