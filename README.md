@@ -24,7 +24,7 @@ I'm a Computer Science student based in Warsaw, actively immersed in learning an
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="react" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="spring" width="35px"/>
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="fastapi" width="35px"/>
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.svgrepo.com/show/353657/django-icon.svg)" title="django" width="35px"/>
+    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" title="django" width="35px"/>
 </div>
 
 #### Data Science
@@ -43,7 +43,7 @@ I'm a Computer Science student based in Warsaw, actively immersed in learning an
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="github" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="docker" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="jenkins" width="35px"/>
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg]" title="bash" width="35px"/>
+    <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo.png" title="bash" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" width="35px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="windows" width="35px"/>
 </div>
