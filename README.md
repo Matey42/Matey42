@@ -64,7 +64,7 @@ I'm a **Computer Science student** based in Warsaw, passionate about pushing the
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Matey42&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Matey42&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
