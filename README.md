@@ -64,9 +64,7 @@ I'm a **Computer Science student** based in Warsaw, passionate about pushing the
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=Matey42&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matey42&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
