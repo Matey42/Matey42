@@ -53,15 +53,15 @@ I'm a **Computer Science student** based in Warsaw, passionate about pushing the
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=Matey42&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Matey42&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matey42&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matey42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matey42&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Matey42&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
