@@ -56,12 +56,15 @@ I'm a **Computer Science student** based in Warsaw, passionate about pushing the
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Matey42&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matey42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/Matey42">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matey42&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matey42&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=Matey42&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Matey42&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
