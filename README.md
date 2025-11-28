@@ -12,9 +12,6 @@
 I'm a **Computer Science student** based in Warsaw, passionate about pushing the boundaries of technology through code.
 
 -  **Focus Areas:** Competitive Programming & Machine Learning
--  **Interests:** Deep Learning, NLP, Computer Vision
--  **Currently Learning:** Advanced ML architectures and optimization techniques
--  **Goal:** Building intelligent systems that make a difference
 
 ---
 
